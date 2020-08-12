@@ -5,8 +5,8 @@
 	"version" : "1.0.0", 
 	"dofusVersion" : "2.56", 
 	"description" : "Thème de Smoyzi, basé sur le darkStone de Dofus", 
-	"url" : "https://github.com/Smoyz/themes/", 
-	"previewUrl" : "https://github.com/Smoyz/themes/", 
+	"url" : "https://github.com/Smoyz/themes/raw/master/dofus-th/SmoyziV1/SmoyziV1.zip", 
+	"previewUrl" : "https://github.com/Smoyz/themes/raw/master/dofus-th/SmoyziV1/SmoyziV1preview.png", 
 	"creationDate" : "12/08/2020", 
     "modificationDate" : "12/08/2020"
 }]
