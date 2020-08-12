@@ -1,2 +1,1 @@
-# themes
-Dofus Themes Repository
+# Dofus Themes
