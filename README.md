@@ -1,1 +1,1 @@
-# Dofus Themes
+# Smoyz's Dofus Themes
