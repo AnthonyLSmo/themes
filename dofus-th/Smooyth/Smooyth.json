@@ -9,4 +9,16 @@
         "previewUrl": "https://github.com/smoyz/themes/raw/master/dofus-th/Smooyth/Smooyth.jpg",
         "creationDate": "13/08/2020",
         "modificationDate": "17/08/2020"
+    },
+    {
+        "author": "Smoyzi",
+        "name": "Smooyth - Beta Version",
+        "keyWords": "Smooyth, Smoyzi, Theme, Thème, Dofus, darkStone, beta",
+        "version": "b1.0.1",
+        "dofusVersion": "2.56",
+        "description": "Version Beta du Smooyth Theme",
+        "url": "https://github.com/smoyz/themes/raw/master/dofus-th/Smooyth/beta/SmooythBeta.zip",
+        "previewUrl": "https://github.com/smoyz/themes/raw/master/dofus-th/Smooyth/beta/SmooythBeta.jpg",
+        "creationDate": "19/08/2020",
+        "modificationDate": "19/08/2020"
     }]
