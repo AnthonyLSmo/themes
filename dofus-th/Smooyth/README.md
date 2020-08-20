@@ -10,4 +10,4 @@ Updated on 19th aug. 2020
 
 > Changed colour of the XP bar from blue to the main colour of the theme.
 
-> Changed the in fight button (Pass turn, ready etc...).
+> Changed the in fight button (Pass turn, ready etc...) to a smoother version.
