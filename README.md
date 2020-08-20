@@ -4,4 +4,4 @@
 
 
 
-> Join me on Twitter (https://twitter.com/smoyzi)
+> Join me on [Twitter](https://twitter.com/smoyzi)
