@@ -2,24 +2,24 @@
         "author": "Smoyzi",
         "name": "Smooyth",
         "keyWords": "Smooyth, Smoyzi, Theme, Thème, Dofus, darkStone",
-        "version": "1.1.2",
-        "dofusVersion": "2.58",
+        "version": "1.2.0",
+        "dofusVersion": "2.59",
         "description": "Smooyth Theme, Theme by @Smoyzi (Twitter)",
         "url": "https://github.com/smoyz/themes/raw/master/dofus-th/Smooyth/Smooyth.zip",
         "previewUrl": "https://github.com/smoyz/themes/raw/master/dofus-th/Smooyth/Smooyth.jpg",
         "creationDate": "14/08/2020",
-        "modificationDate": "16/12/2020"
+        "modificationDate": "29/04/2021"
     },
     {
         "author": "Smoyzi",
         "name": "Smooyth - Beta Version",
         "keyWords": "Smooyth, Smoyzi, Theme, Thème, Dofus, darkStone, beta",
-        "version": "1.1.2",
-        "dofusVersion": "2.58",
+        "version": "1.1.0",
+        "dofusVersion": "2.56",
         "description": "Version Beta du Smooyth Theme",
         "url": "https://github.com/Smoyz/themes/raw/master/dofus-th/Smooyth/beta/SmooythBeta.zip",
         "previewUrl": "https://github.com/Smoyz/themes/raw/master/dofus-th/Smooyth/beta/SmooythBeta.jpg",
         "creationDate": "19/08/2020",
-        "modificationDate": "22/12/2020"
+        "modificationDate": "20/08/2020"
     }
 ]
